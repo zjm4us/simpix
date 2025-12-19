@@ -57,13 +57,20 @@ Image C and D are from National Gallary of Arts https://www.nga.gov/artworks
    python simpix.py
    
 Outputs:
+---
 imageA_to_imageB.jpg → pixels from imageA.jpg mapped to imageB.jpg
+---
 frisbee_to_rotunda.jpg → pixels from frisbe_scott_stadium.png mapped to rotunda_north_facade.png
+---
 Runtimes:
+---
 imageA_to_imageB.jpg: 2.03 seconds
+---
 frisbee_to_rotunda.jpg: 0.62 seconds
 
+---
 3. Large images (final submission)
+---
    python large_simpix.py
    
 Outputs:
@@ -85,6 +92,7 @@ B_to_A.jpg: 98.16 seconds
 C_to_D.jpg: 104.62 seconds
 ---
 D_to_C.jpg: 109.23 seconds
+---
 
 Method
 
