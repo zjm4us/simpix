@@ -51,11 +51,13 @@ Image C and D are from National Gallary of Arts https://www.nga.gov/artworks
 ---
 
 ## How to Run
+---
 1.  Activate your environment
-
+---
 2. Small images (optional test, fast)
-   python simpix.py
-   
+   ---
+python simpix.py
+---
 Outputs:
 ---
 imageA_to_imageB.jpg → pixels from imageA.jpg mapped to imageB.jpg
@@ -67,11 +69,12 @@ Runtimes:
 imageA_to_imageB.jpg: 2.03 seconds
 ---
 frisbee_to_rotunda.jpg: 0.62 seconds
-
+---
 ---
 3. Large images (final submission)
 ---
    python large_simpix.py
+---
    
 Outputs:
 ---
