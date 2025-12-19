@@ -26,7 +26,9 @@ This submission includes both small and large images. Large images meet the PHYS
 
 ## Files Included
 
+
 Image A and B are from https://en.wikipedia.org/wiki/Impressionism
+---
 Image C and D are from National Gallary of Arts https://www.nga.gov/artworks
 
 | File | Description |
@@ -65,14 +67,23 @@ frisbee_to_rotunda.jpg: 0.62 seconds
    python large_simpix.py
    
 Outputs:
+---
 A_to_B.jpg → pixels from large_imageA.jpg mapped to large_imageB.jpg
+---
 B_to_A.jpg → pixels from large_imageB.jpg mapped to large_imageA.jpg
+---
 C_to_D.jpg → pixels from large_imageC.jpg mapped to large_imageD.jpg
+---
 D_to_C.jpg → pixels from large_imageD.jpg mapped to large_imageC.jpg
+---
 Runtimes:
+---
 A_to_B.jpg: 121.33 seconds
+---
 B_to_A.jpg: 98.16 seconds
+---
 C_to_D.jpg: 104.62 seconds
+---
 D_to_C.jpg: 109.23 seconds
 
 Method
